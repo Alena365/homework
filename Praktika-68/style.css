@@ -1,0 +1,38 @@
+body {
+    background: black;
+}
+
+.text {
+    color: rgb(176, 175, 175);
+    font-size: 25px;
+}
+
+.inner {
+    display: flex;
+    position: relative;
+    height: 100%;
+}
+
+.white {
+    height: 50px;
+    width: 600px;
+    background: white;
+    border-radius: 10px;
+
+    position: fixed;
+    right: 20px;
+    top: 400px;
+}
+
+.red {
+    height: 50px;
+    width: 50px;
+    background: red;
+    border-radius: 50px;
+    z-index: 1;
+
+    
+    position: fixed;
+    right: 480px;
+    top: 380px;
+}
