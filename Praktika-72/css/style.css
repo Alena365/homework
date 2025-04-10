@@ -25,6 +25,7 @@ body {
 
 .box span {
     opacity: 0;
+    transition-delay: 3s;
 }
 
 .box__scale {
@@ -51,6 +52,4 @@ body {
     transition: 3s;
 }
 
-.span {
-    transition-delay: 3s;
-}
+
