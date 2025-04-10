@@ -52,5 +52,5 @@ body {
 }
 
 .span {
-    transition: 5s;
+    transition-delay: 3s;
 }
