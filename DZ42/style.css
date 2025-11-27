@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+
+.form {
+    display: inline-block;
+    border: 1px solid #000000;
+    border-radius: 10px;
+    padding: 0px 80px 20px 20px;
+    background: #c5ed85;
+    color: #342927;
+
+}
+
+.label {
+    display: block;
+    padding: 5px;
+    width: 200px;
+    border-radius: 5px;
+    border: none;
+    margin: 5px 0px;
+}
+
+
+textarea {
+    resize: vertical;
+    max-height: 100px;
+}
+
+.button {
+    cursor: pointer;
+    border: none;
+    border-radius: 5px;
+    padding: 5px 15px;
+    background: #eec252;
+    color: #342927;
+}
+
+.checkbox {
+    cursor: pointer;
+}
+
