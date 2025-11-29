@@ -12,7 +12,6 @@ background: rgb(191, 252, 192);
     align-items: center;
     border-bottom: 2px solid #c2baba;
     font-size: 20px;
-
 }
 
 .logo {
@@ -20,6 +19,12 @@ background: rgb(191, 252, 192);
     height: 60px;
     background: pink;
     cursor: pointer;
+}
+
+.list {
+    display: flex;
+    list-style: none;
+    align-items: center;
 }
 
 .link {
